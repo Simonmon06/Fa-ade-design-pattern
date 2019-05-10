@@ -1,0 +1,16 @@
+Author: Zeye Gu Student ID: 101036562
+Purpose:
+practice the integration of your code with an existing class
+work with the Façade design pattern
+implement a class template and overloaded operators in C++
+
+Files:
+Control.cc Control.h View.cc View.h Course.cc Course.h def.h in.txt main.cc StuServer.h StuServer.o testUtil.cc
+Makefile Storage.cc Storage.h Student.cc Student.h Monitor.cc Monitor.h FWMonitor.cc FWMonitor.h GPAMonitor.cc GPAMonitor.cc README.txt UML.pdf
+
+Make sure you are in the right directory
+
+To compile :
+make
+To launch:
+valgrind ./sas < in.txt
